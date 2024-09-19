@@ -1,0 +1,74 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h4{
+    display:flex;
+}
+h3{
+    color:white;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+nav,li,ol{
+    display: flex;
+}
+li:hover{
+    color:black;
+    background-color: aliceblue;
+    transition: 0.3s;
+}
+ol
+{
+    margin-left: 670PX;
+}
+li{
+    list-style: none;
+    padding :15px;
+}
+#id1
+{
+    display: flex;
+    background-color: black;
+    color:white;
+    height:70px;
+}
+.Big
+{
+    display:flex;
+}
+button{
+    background-color: black;
+    color:white;
+    width:80px;
+    height:40px;
+    border-radius: 5px;
+    display: block;
+    font-family:"Sofia", sans-serif;
+    font-size: 13px;
+}
+button:hover{
+    color:black;
+    background-color: white;
+}
+.small
+{
+   margin:30px;
+   border:2px solid black;
+   width:230px;
+   padding:10px;
+   height:250px;
+}
+img{
+     height:200px;
+     width:200px;
+}
+.pr
+{
+    display: flex;
+}
+h2{
+    padding:9px;
+    font-size: 18px;
+}
